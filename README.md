@@ -6,8 +6,8 @@ Full Stack Software Engineer
 
 Software Engineer specializing across the stack in Cloud-Native Web Applications to build software to meet constantly changing customer & business needs. I take pride in building in software solutions that are tailored to meeting the rapid demands of business problems yet at the same time ship code that is well-tested, modular, & maintainable. Through building software, I advocate collaboration, and teamwork, and provide guidance to junior developers & different departments so that collectively we bring innovative, solution-orientated & reliable software to market.
 
-* 🌍  I'm based in Miami, Florida
-* 🤝  I'm open to collaborating on Full-Stack Cloud Native, Microservice Web-based Apps
+* 🌍  I'm based in Miami, Florida, USA usa
+* 🤝  I'm open to collaborating on Full-Stack Cloud Native, Microservice Web-based Apps
 * ⚡  Also a Hispanic-American 🌎, Musician, 🎵🥁🎹🎸, Improver & Thespian 🎭, & Cat Dad 🐈
 
 ### Skills
