@@ -8,7 +8,7 @@ Software Engineer specializing across the stack in Cloud-Native Web Applications
 
 * 🌍  I'm based in Miami, Florida
 * 🤝  I'm open to collaborating on Full-Stack Cloud Native, Microservice Web-based Apps
-* ⚡  Also a Hispanic-American 🌎 Musician, 🎵🥁🎹🎸, Improver & Thespian 🎭, & Cat Dad 🐈
+* ⚡  Also a Hispanic-American 🌎, Musician, 🎵🥁🎹🎸, Improver & Thespian 🎭, & Cat Dad 🐈
 
 ### Skills
 
